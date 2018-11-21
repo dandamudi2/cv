@@ -29,7 +29,7 @@ body
 #nav{
  width:998px;
  height:51px;	
- background:url('images/nav-bg.gif') repeat-x;
+ background:url('../images/nav-bg.gif') repeat-x;
 }
 
 #nav ul{
@@ -72,7 +72,7 @@ body
 	
 	width:219px;
 	height:115px;
-	background:url(images/banner-sub-1.gif) repeat-x;
+	background:url(../images/banner-sub-1.gif) repeat-x;
 	float:left;
 	padding:19px 15px 16px 15px;
 	border-right:1px solid #FFF;
